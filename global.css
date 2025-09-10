@@ -1,4 +1,4 @@
-.pf-widget-content {
+.pf-widget-slideout .pf-widget-content {
   background: #1a1919 !important;
   color: #fff !important;
   border-radius: 0 !important;
@@ -63,7 +63,7 @@
   display: none !important;
 }
 
-.pf-widget-btn.pf-widget-ok {
+.pf-widget .pf-widget-btn.pf-widget-ok{
   margin-top: 15px;
   background-color: #ac75ef !important;
   padding: 16px 12px !important;
