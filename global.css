@@ -1,0 +1,87 @@
+.pf-widget-content {
+  background: #1a1919 !important;
+  color: #fff !important;
+  border-radius: 0 !important;
+  padding: 20px !important;
+  font-family: Inter !important;
+}
+
+.travel-cateogery {
+  margin: 15px 0;
+}
+
+.travel-cateogery .radio-label {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+  color: #fff !important;
+  font-size: 14px !important;
+  font-family: Inter !important;
+  cursor: pointer;
+}
+
+.travel-cateogery .styled-radio {
+  width: 16px;
+  height: 16px;
+  cursor: pointer;
+  accent-color: #ac75ef;
+  transition: all 0.2s ease-in-out;
+  margin-right: 8px;
+}
+
+.travel-cateogery .styled-radio:hover {
+  box-shadow: 0 0 6px rgba(172, 117, 239, 0.6);
+}
+
+.pf-widget-content .pf-widget-headline {
+  border: 0 !important;
+  color: #fff !important;
+  font-weight: 600 !important;
+  font-size: 18px !important;
+  line-height: normal;
+}
+
+.pf-widget-content .pf-widget-message {
+  font-size: 14px !important;
+  color: rgba(255, 255, 255, 0.8) !important;
+  margin-bottom: 12px !important;
+}
+
+.pf-widget-content input[type=email] {
+  margin-bottom: 10px !important;
+  padding: 12px 10px !important;
+  height: auto !important;
+  background: #212121 !important;
+  border-radius: 0 !important;
+  color: rgba(255, 255, 255, 0.67) !important;
+  font-size: 14px !important;
+  font-family: Inter !important;
+  line-height: 120% !important;
+}
+
+.pf-widget-btn.pf-widget-cancel {
+  display: none !important;
+}
+
+.pf-widget-btn.pf-widget-ok {
+  margin-top: 15px;
+  background-color: #ac75ef !important;
+  padding: 16px 12px !important;
+  font-family: Inter !important;
+  font-weight: 500 !important;
+  font-size: 14px !important;
+  line-height: 140% !important;
+  color: #151515 !important;
+  text-transform: none !important;
+  border-radius: 0 !important;
+  max-height: 40px !important;
+  width: 100% !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  transition: background-color 0.3s ease-in-out !important;
+}
+
+.pf-widget-btn.pf-widget-ok:hover {
+  background: #9059d9 !important;
+}
